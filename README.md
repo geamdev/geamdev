@@ -1,16 +1,17 @@
-### Hi there 👋
+<div align="center">
+<h2 style="margin-right:10px;">Hi, I'm Geampiere Jaramillo! <img src="https://www.icegif.com/wp-content/uploads/2022/11/icegif-473.gif" width="50" > </h2>
 
-<!--
-**geamdev/geamdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Frontend Web Developer</p>
 
-Here are some ideas to get you started:
+[![Twitter: geam](https://img.shields.io/twitter/follow/Geam?style=social)](https://twitter.com/dev_geampiere)
+[![Linkedin: geam](https://img.shields.io/badge/-Geam-gray?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geam/)](https://www.linkedin.com/in/geam/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+In my spare time, I enjoy playing online video games, especially League of Legends. I also love anime and my favorite anime is One Piece.
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=geamdev&show_icons=true&locale=en&layout=compact" alt="geamdev">
+</div>
+
+Whit ❤️ Geam
