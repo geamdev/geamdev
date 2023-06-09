@@ -7,10 +7,10 @@
     />
   </h2>
   <p>Frontend Web Developer</p>
-  <p>
+  <h5>
     In my spare time, I enjoy playing online video games, especially League of
     Legends. I also love anime and my favorite anime is One Piece.
-  </p>
+  </h5>
 </div>
 
 <br />
