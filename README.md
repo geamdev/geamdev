@@ -405,7 +405,7 @@ current_focus:
 
 <div align="center">
 
-*"Clean architecture is not about where you put the files — it's about the boundaries you draw between your dependencies."*
+*"With ❤️ Geam"*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6D28D9&height=120&section=footer" width="100%"/>
 
