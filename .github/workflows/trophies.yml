@@ -14,17 +14,20 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate trophy
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
-        with:
-          username: geamdev
-          output_path: profile/trophies.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Create profile directory
+        run: mkdir -p profile
+
+      - name: Download trophies SVG
+        run: |
+          curl -f "https://github-profile-trophy.vercel.app/?username=geamdev&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" \
+            -o profile/trophies.svg \
+            --retry 3 \
+            --retry-delay 5
 
       - name: Commit trophies
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/trophies.svg
-          git commit -m "Update trophies" || exit 0
+          git commit -m "Update trophies" || echo "No changes to commit"
           git push
