@@ -47,7 +47,7 @@ Currently engineering backend solutions at **Sofka Technologies** for the **deUn
 
 ## ◈ Tech Stack
 
-<div align="center">
+<div align="start">
 
 **Languages**
 
@@ -71,7 +71,7 @@ Currently engineering backend solutions at **Sofka Technologies** for the **deUn
 
 ## ◈ Architecture & Engineering Expertise
 
-<div align="center">
+<div align="start">
 
 | Domain | Proficiency | Details |
 |---|---|---|
