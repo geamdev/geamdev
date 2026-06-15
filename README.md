@@ -324,8 +324,7 @@ Delivered full-stack solutions for regional fintech startups integrating Node.js
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=geamdev&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=6D28D9&fire=8B5CF6&currStreakLabel=C4B5FD&sideNums=C4B5FD&sideLabels=8B5CF6&dates=7C3AED" height="170"/>
-
+<img src="./profile/streak.svg" alt="GitHub Streak" height="170"/>
 </div>
 
 ---
@@ -334,8 +333,7 @@ Delivered full-stack solutions for regional fintech startups integrating Node.js
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=geamdev&theme=flat&no-frame=true&row=1&column=6"/>
-
+<img src="https://github-trophies.devomb.com/?username=geamdev&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%"/>
 </div>
 
 ---
